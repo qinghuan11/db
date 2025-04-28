@@ -1,0 +1,1 @@
+{"students":{"columns":{"grade":{"notNull":false,"type":"double"},"name":{"notNull":true,"type":"string"},"id":{"notNull":false,"type":"int"}},"tableName":"students","primaryKey":"id"}}

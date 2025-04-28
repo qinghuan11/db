@@ -1,0 +1,1 @@
+{"schema":{"columns":{"grade":{"notNull":false,"type":"double"},"name":{"notNull":true,"type":"string"},"id":{"notNull":false,"type":"int"}},"tableName":"students","primaryKey":"id"},"data":[{"name":"Alice","grade":95.5,"id":1},{"name":"Bob","grade":88,"id":2}]}
