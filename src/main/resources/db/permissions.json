@@ -1,0 +1,1 @@
+[{"permissions":[],"username":"bob"},{"permissions":[],"username":"admin"},{"permissions":[{"operation":"INSERT","tableName":"students"}],"username":"alice"}]
